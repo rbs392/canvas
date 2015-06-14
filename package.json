@@ -1,0 +1,16 @@
+{
+  "name": "canvas",
+  "version": "1.0.0",
+  "description": "test canvas in html5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rbs392",
+  "license": "ISC",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-serve": "^0.1.6",
+    "rasterizehtml": "^1.1.0"
+  }
+}
